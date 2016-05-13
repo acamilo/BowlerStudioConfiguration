@@ -14,5 +14,12 @@
   },
   "BowlerStudioConfigs": {
     "firstVersion": "0.17.1"
+  },
+  "Logitech Logitech Attack 3": {
+    "jogKinz": "rz",
+    "jogLink": "x",
+    "jogKinslider": "slider",
+    "jogKiny": "y",
+    "jogKinx": "x"
   }
 }
