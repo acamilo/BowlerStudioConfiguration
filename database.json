@@ -1,4 +1,5 @@
 {
+  "studio-open-web": {},
   "Saitek PLC Saitek P2600 Rumble Force Pad": {
     "jogKinz": "rz",
     "jogLink": "x",
@@ -8,7 +9,10 @@
   },
   "studio-open-git": {},
   "BowlerStudioConfigs": {
-    "firstVersion": "0.17.1"
+    "firstVersion": "0.17.1",
+    "showTerminal": false,
+    "showDevices": false,
+    "showCreatureLab": false
   },
   "Logitech Logitech Attack 3": {
     "jogKinz": "rz",
