@@ -11,7 +11,7 @@
   "BowlerStudioConfigs": {
     "firstVersion": "0.17.1",
     "showTerminal": false,
-    "showDevices": false,
+    "showDevices": true,
     "showCreatureLab": false
   },
   "Logitech Logitech Attack 3": {
