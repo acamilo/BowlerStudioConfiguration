@@ -10,9 +10,11 @@
   "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.17.1",
-    "showTerminal": false,
+    "showTerminal": true,
+    "skinBranch": "master",
     "showDevices": true,
-    "showCreatureLab": false
+    "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
+    "showCreatureLab": true
   },
   "Logitech Logitech Attack 3": {
     "jogKinz": "rz",
