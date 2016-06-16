@@ -15,6 +15,10 @@
     "https://gist.github.com/7261774200958cc6c91f6921f04005f6.git:cube.groovy": [
       "https://gist.github.com/7261774200958cc6c91f6921f04005f6.git",
       "cube.groovy"
+    ],
+    ":": [
+      "",
+      ""
     ]
   },
   "BowlerStudioConfigs": {
