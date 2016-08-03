@@ -8,14 +8,6 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://gist.github.com/ab4ce9381ffb040698df11f14812912c.git:SolderCooler.groovy": [
-      "https://gist.github.com/ab4ce9381ffb040698df11f14812912c.git",
-      "SolderCooler.groovy"
-    ],
-    "https://gist.github.com/7261774200958cc6c91f6921f04005f6.git:cube.groovy": [
-      "https://gist.github.com/7261774200958cc6c91f6921f04005f6.git",
-      "cube.groovy"
-    ],
     ":": [
       "",
       ""
@@ -27,6 +19,7 @@
     "skinBranch": "master",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
+    "currentVersion": "0.18.11",
     "showCreatureLab": true
   },
   "Logitech Logitech Attack 3": {
