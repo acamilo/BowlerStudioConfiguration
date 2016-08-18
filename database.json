@@ -8,6 +8,10 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
+    "https://gist.github.com/08e9b0511a3977ea5c31a3bacf7de65c.git:shelfDividers.groovy": [
+      "https://gist.github.com/08e9b0511a3977ea5c31a3bacf7de65c.git",
+      "shelfDividers.groovy"
+    ],
     ":": [
       "",
       ""
@@ -19,7 +23,7 @@
     "skinBranch": "master",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "currentVersion": "0.18.11",
+    "currentVersion": "0.19.1",
     "showCreatureLab": true
   },
   "Logitech Logitech Attack 3": {
