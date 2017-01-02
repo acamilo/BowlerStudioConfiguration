@@ -8,13 +8,29 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://gist.github.com/08e9b0511a3977ea5c31a3bacf7de65c.git:shelfDividers.groovy": [
-      "https://gist.github.com/08e9b0511a3977ea5c31a3bacf7de65c.git",
-      "shelfDividers.groovy"
+    "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/Cchannelscript.groovy": [
+      "https://github.com/madhephaestus/VexVitaminScripts.git",
+      "scripts/Cchannelscript.groovy"
+    ],
+    "https://gist.github.com/cb9e4207e37668c776eaae643701f92c.git:nemaStepper.groovy": [
+      "https://gist.github.com/cb9e4207e37668c776eaae643701f92c.git",
+      "nemaStepper.groovy"
+    ],
+    "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
+      "https://gist.github.com/4814b39ee72e9f590757.git",
+      "javaCad.groovy"
+    ],
+    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git:capScrew.groovy": [
+      "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
+      "capScrew.groovy"
     ],
     ":": [
       "",
       ""
+    ],
+    "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/Wheels.groovy": [
+      "https://github.com/madhephaestus/VexVitaminScripts.git",
+      "scripts/Wheels.groovy"
     ]
   },
   "BowlerStudioConfigs": {
@@ -23,7 +39,7 @@
     "skinBranch": "master",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "currentVersion": "0.19.1",
+    "currentVersion": "0.20.0",
     "showCreatureLab": true
   },
   "Logitech Logitech Attack 3": {
