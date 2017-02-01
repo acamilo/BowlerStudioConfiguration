@@ -8,6 +8,10 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
+    "https://gist.github.com/f6cc6325b6da918feeb46d2586248e88.git:CreatureCadGenerator.groovy": [
+      "https://gist.github.com/f6cc6325b6da918feeb46d2586248e88.git",
+      "CreatureCadGenerator.groovy"
+    ],
     ":": [
       "",
       ""
@@ -16,9 +20,13 @@
       "https://gist.github.com/e9629fffdec42d29089e7a4b05093dd4.git",
       "sphere.groovy"
     ],
-    "https://gist.github.com/2372af5c183e12cffe38d8d13d0efc2e.git:difference.groovy": [
-      "https://gist.github.com/2372af5c183e12cffe38d8d13d0efc2e.git",
-      "difference.groovy"
+    "https://github.com/madhephaestus/carl-the-hexapod.git:LinkedCadEngine.groovy": [
+      "https://github.com/madhephaestus/carl-the-hexapod.git",
+      "LinkedCadEngine.groovy"
+    ],
+    "https://gist.github.com/f6cc6325b6da918feeb46d2586248e88.git:ExampleCadGenerator.groovy": [
+      "https://gist.github.com/f6cc6325b6da918feeb46d2586248e88.git",
+      "ExampleCadGenerator.groovy"
     ]
   },
   "BowlerStudioConfigs": {
