@@ -8,29 +8,17 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/Cchannelscript.groovy": [
-      "https://github.com/madhephaestus/VexVitaminScripts.git",
-      "scripts/Cchannelscript.groovy"
-    ],
-    "https://gist.github.com/cb9e4207e37668c776eaae643701f92c.git:nemaStepper.groovy": [
-      "https://gist.github.com/cb9e4207e37668c776eaae643701f92c.git",
-      "nemaStepper.groovy"
-    ],
-    "https://gist.github.com/4814b39ee72e9f590757.git:javaCad.groovy": [
-      "https://gist.github.com/4814b39ee72e9f590757.git",
-      "javaCad.groovy"
-    ],
-    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git:capScrew.groovy": [
-      "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
-      "capScrew.groovy"
-    ],
     ":": [
       "",
       ""
     ],
-    "https://github.com/madhephaestus/VexVitaminScripts.git:scripts/Wheels.groovy": [
-      "https://github.com/madhephaestus/VexVitaminScripts.git",
-      "scripts/Wheels.groovy"
+    "https://gist.github.com/e9629fffdec42d29089e7a4b05093dd4.git:sphere.groovy": [
+      "https://gist.github.com/e9629fffdec42d29089e7a4b05093dd4.git",
+      "sphere.groovy"
+    ],
+    "https://gist.github.com/2372af5c183e12cffe38d8d13d0efc2e.git:difference.groovy": [
+      "https://gist.github.com/2372af5c183e12cffe38d8d13d0efc2e.git",
+      "difference.groovy"
     ]
   },
   "BowlerStudioConfigs": {
