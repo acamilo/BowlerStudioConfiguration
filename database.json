@@ -7,12 +7,7 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://github.com/acamilo/Halloween2016.git:wearableAnimatronics.groovy": [
-      "https://github.com/acamilo/Halloween2016.git",
-      "wearableAnimatronics.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.17.1",
     "showTerminal": true,
