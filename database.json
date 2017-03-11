@@ -7,7 +7,12 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/b685ea46fa62421492a71e18070d5cc6.git:cube.groovy": [
+      "https://gist.github.com/b685ea46fa62421492a71e18070d5cc6.git",
+      "cube.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.17.1",
     "showTerminal": true,
