@@ -8,9 +8,17 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://gist.github.com/b685ea46fa62421492a71e18070d5cc6.git:cube.groovy": [
-      "https://gist.github.com/b685ea46fa62421492a71e18070d5cc6.git",
-      "cube.groovy"
+    "none:/home/acamilo/powerdincable/case.groovy": [
+      "none",
+      "/home/acamilo/powerdincable/case.groovy"
+    ],
+    "none:/home/acamilo/powerdincable/adapter.groovy": [
+      "none",
+      "/home/acamilo/powerdincable/adapter.groovy"
+    ],
+    "none:/home/acamilo/powerdincable/KPJX-PM-4S.groovy": [
+      "none",
+      "/home/acamilo/powerdincable/KPJX-PM-4S.groovy"
     ]
   },
   "BowlerStudioConfigs": {
