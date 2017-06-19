@@ -7,20 +7,7 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "none:/home/acamilo/powerdincable/case.groovy": [
-      "none",
-      "/home/acamilo/powerdincable/case.groovy"
-    ],
-    "none:/home/acamilo/powerdincable/adapter.groovy": [
-      "none",
-      "/home/acamilo/powerdincable/adapter.groovy"
-    ],
-    "none:/home/acamilo/powerdincable/KPJX-PM-4S.groovy": [
-      "none",
-      "/home/acamilo/powerdincable/KPJX-PM-4S.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.17.1",
     "showTerminal": true,
@@ -28,6 +15,7 @@
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "currentVersion": "0.20.0",
+    "notifiedArduinoDep": true,
     "showCreatureLab": true
   },
   "Logitech Logitech Attack 3": {
