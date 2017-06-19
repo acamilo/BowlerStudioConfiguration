@@ -7,7 +7,12 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "none:C:\\Users\\alexc\\bowler-workspace\\ships\\ship.groovy": [
+      "none",
+      "C:\\Users\\alexc\\bowler-workspace\\ships\\ship.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.17.1",
     "showTerminal": true,
