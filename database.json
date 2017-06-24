@@ -8,9 +8,9 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "none:C:\\Users\\alexc\\bowler-workspace\\ships\\ship.groovy": [
-      "none",
-      "C:\\Users\\alexc\\bowler-workspace\\ships\\ship.groovy"
+    "https://gist.github.com/deccd373e0dff4e716f508a73b5924e2.git:ship.groovy": [
+      "https://gist.github.com/deccd373e0dff4e716f508a73b5924e2.git",
+      "ship.groovy"
     ]
   },
   "BowlerStudioConfigs": {
