@@ -11,12 +11,16 @@
     "https://github.com/acamilo/SmartToolCab.git:frame.groovy": [
       "https://github.com/acamilo/SmartToolCab.git",
       "frame.groovy"
+    ],
+    "https://github.com/acamilo/SeriesElasticActuator.git:seaArm.xml": [
+      "https://github.com/acamilo/SeriesElasticActuator.git",
+      "seaArm.xml"
     ]
   },
   "BowlerStudioConfigs": {
     "firstVersion": "0.17.1",
     "showTerminal": true,
-    "fontsize": 36,
+    "fontsize": 36.0,
     "skinBranch": "0.28.1",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
