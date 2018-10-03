@@ -7,16 +7,7 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://github.com/acamilo/SmartToolCab.git:frame.groovy": [
-      "https://github.com/acamilo/SmartToolCab.git",
-      "frame.groovy"
-    ],
-    "https://github.com/acamilo/SeriesElasticActuator.git:seaArm.xml": [
-      "https://github.com/acamilo/SeriesElasticActuator.git",
-      "seaArm.xml"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.17.1",
     "showTerminal": true,
