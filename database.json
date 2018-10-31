@@ -8,9 +8,9 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://github.com/madhephaestus/SeriesElasticActuator.git:makeKinematic.groovy": [
-      "https://github.com/madhephaestus/SeriesElasticActuator.git",
-      "makeKinematic.groovy"
+    "https://gist.github.com/5931b62a4f02216136583ec67dd993ff.git:BNO055Visualizer.groovy": [
+      "https://gist.github.com/5931b62a4f02216136583ec67dd993ff.git",
+      "BNO055Visualizer.groovy"
     ]
   },
   "BowlerStudioConfigs": {
