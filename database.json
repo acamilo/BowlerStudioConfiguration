@@ -8,16 +8,20 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://gist.github.com/5931b62a4f02216136583ec67dd993ff.git:BNO055Visualizer.groovy": [
-      "https://gist.github.com/5931b62a4f02216136583ec67dd993ff.git",
-      "BNO055Visualizer.groovy"
+    "https://github.com/madhephaestus/SeriesElasticActuator.git:LaunchHardware.groovy": [
+      "https://github.com/madhephaestus/SeriesElasticActuator.git",
+      "LaunchHardware.groovy"
+    ],
+    "https://github.com/OperationSmallKat/greycat.git:launch.groovy": [
+      "https://github.com/OperationSmallKat/greycat.git",
+      "launch.groovy"
     ]
   },
   "BowlerStudioConfigs": {
     "firstVersion": "0.17.1",
     "showTerminal": true,
     "fontsize": 36.0,
-    "skinBranch": "0.28.1",
+    "skinBranch": "0.30.2",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "currentVersion": "0.20.0",
