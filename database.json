@@ -16,6 +16,10 @@
       "https://github.com/OperationSmallKat/greycat.git",
       "launch.groovy"
     ],
+    "https://github.com/madhephaestus/SeriesElasticActuator.git:HIDarm.xml": [
+      "https://github.com/madhephaestus/SeriesElasticActuator.git",
+      "HIDarm.xml"
+    ],
     "https://gist.github.com/26a571e332833f23754d.git:gameController.groovy": [
       "https://gist.github.com/26a571e332833f23754d.git",
       "gameController.groovy"
