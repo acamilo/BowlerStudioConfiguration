@@ -15,6 +15,14 @@
     "https://github.com/OperationSmallKat/greycat.git:launch.groovy": [
       "https://github.com/OperationSmallKat/greycat.git",
       "launch.groovy"
+    ],
+    "https://gist.github.com/26a571e332833f23754d.git:gameController.groovy": [
+      "https://gist.github.com/26a571e332833f23754d.git",
+      "gameController.groovy"
+    ],
+    "https://github.com/OperationSmallKat/SmallKat_V2.git:loadRobot.groovy": [
+      "https://github.com/OperationSmallKat/SmallKat_V2.git",
+      "loadRobot.groovy"
     ]
   },
   "BowlerStudioConfigs": {
