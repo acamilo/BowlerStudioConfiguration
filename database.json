@@ -12,6 +12,10 @@
       "https://github.com/madhephaestus/SeriesElasticActuator.git",
       "LaunchHardware.groovy"
     ],
+    "https://github.com/madhephaestus/SeriesElasticActuator.git:seaLinkGen.groovy": [
+      "https://github.com/madhephaestus/SeriesElasticActuator.git",
+      "seaLinkGen.groovy"
+    ],
     "https://gist.github.com/b4d545fb77fdc2620ebab5f20e0883ba.git:MoveLimb.groovy": [
       "https://gist.github.com/b4d545fb77fdc2620ebab5f20e0883ba.git",
       "MoveLimb.groovy"
