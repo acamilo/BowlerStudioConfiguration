@@ -15,6 +15,10 @@
     "https://github.com/madhephaestus/SeriesElasticActuator.git:launchGameControl.groovy": [
       "https://github.com/madhephaestus/SeriesElasticActuator.git",
       "launchGameControl.groovy"
+    ],
+    "https://github.com/OperationSmallKat/SmallKat_V2.git:Bowler/DynamicWalking.groovy": [
+      "https://github.com/OperationSmallKat/SmallKat_V2.git",
+      "Bowler/DynamicWalking.groovy"
     ]
   },
   "BowlerStudioConfigs": {
