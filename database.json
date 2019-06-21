@@ -2,7 +2,7 @@
   "workspace": {
     "https://github.com/acamilo/EmptyRepo.git": [
       "acamilo/EmptyRepo",
-      "1561141400474"
+      "1561141914044"
     ]
   },
   "studio-open-web": {},
@@ -14,6 +14,10 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
+    "https://github.com/acamilo/EmptyRepo.git:testfile.rtf": [
+      "https://github.com/acamilo/EmptyRepo.git",
+      "testfile.rtf"
+    ],
     "https://github.com/madhephaestus/SeriesElasticActuator.git:LaunchHardware.groovy": [
       "https://github.com/madhephaestus/SeriesElasticActuator.git",
       "LaunchHardware.groovy"
@@ -30,7 +34,7 @@
   "BowlerStudioConfigs": {
     "firstVersion": "0.17.1",
     "showTerminal": true,
-    "fontsize": 36.0,
+    "fontsize": 32,
     "skinBranch": "0.30.2",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
