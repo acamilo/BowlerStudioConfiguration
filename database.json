@@ -1,4 +1,10 @@
 {
+  "workspace": {
+    "https://github.com/acamilo/EmptyRepo.git": [
+      "acamilo/EmptyRepo",
+      "1561141400474"
+    ]
+  },
   "studio-open-web": {},
   "Saitek PLC Saitek P2600 Rumble Force Pad": {
     "jogKinz": "rz",
