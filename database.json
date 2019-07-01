@@ -30,6 +30,10 @@
       "https://github.com/madhephaestus/SeriesElasticActuator.git",
       "seaLinkGen.groovy"
     ],
+    "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git:WheelModule.groovy": [
+      "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git",
+      "WheelModule.groovy"
+    ],
     "https://github.com/madhephaestus/SeriesElasticActuator.git:launchGameControl.groovy": [
       "https://github.com/madhephaestus/SeriesElasticActuator.git",
       "launchGameControl.groovy"
