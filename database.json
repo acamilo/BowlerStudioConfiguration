@@ -25,10 +25,6 @@
     "https://github.com/madhephaestus/SeriesElasticActuator.git:LaunchHardware.groovy": [
       "https://github.com/madhephaestus/SeriesElasticActuator.git",
       "LaunchHardware.groovy"
-    ],
-    "https://github.com/madhephaestus/SeriesElasticActuator.git:launchGameControl.groovy": [
-      "https://github.com/madhephaestus/SeriesElasticActuator.git",
-      "launchGameControl.groovy"
     ]
   },
   "BowlerStudioConfigs": {
