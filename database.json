@@ -25,7 +25,12 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/oshwabadge2020/badge-testing-jig-PCB.git:TestJig.groovy": [
+      "https://github.com/oshwabadge2020/badge-testing-jig-PCB.git",
+      "TestJig.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "0.17.1",
