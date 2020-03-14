@@ -15,6 +15,10 @@
     "https://github.com/oshwabadge2020/badge-testing-jig-PCB.git": [
       "oshwabadge2020/badge-testing-jig-PCB",
       "1580866234373"
+    ],
+    "https://gist.github.com/deccd373e0dff4e716f508a73b5924e2.git": [
+      "GIST: ship.groovy",
+      "1584212358225"
     ]
   },
   "studio-open-web": {},
@@ -25,12 +29,7 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://github.com/oshwabadge2020/badge-testing-jig-PCB.git:TestJig.groovy": [
-      "https://github.com/oshwabadge2020/badge-testing-jig-PCB.git",
-      "TestJig.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "0.17.1",
