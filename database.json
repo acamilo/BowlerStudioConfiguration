@@ -29,7 +29,12 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/deccd373e0dff4e716f508a73b5924e2.git:ship.groovy": [
+      "https://gist.github.com/deccd373e0dff4e716f508a73b5924e2.git",
+      "ship.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "0.17.1",
