@@ -30,9 +30,9 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://gist.github.com/deccd373e0dff4e716f508a73b5924e2.git:ship.groovy": [
-      "https://gist.github.com/deccd373e0dff4e716f508a73b5924e2.git",
-      "ship.groovy"
+    "https://github.com/madhephaestus/6dofServoArm.git:6dofServoArm.xml": [
+      "https://github.com/madhephaestus/6dofServoArm.git",
+      "6dofServoArm.xml"
     ]
   },
   "BowlerStudioConfigs": {
