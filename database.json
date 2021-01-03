@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/acamilo/SVGExtrude_acamilo.git": [
+      "acamilo/SVGExtrude_acamilo",
+      "1609635742418"
+    ],
     "https://github.com/madhephaestus/SeriesElasticActuator.git": [
       "madhephaestus/SeriesElasticActuator",
       "1561224645681"
