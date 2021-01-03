@@ -41,6 +41,10 @@
     "https://github.com/acamilo/SVGExtrude_acamilo.git:SVGExtrude.groovy": [
       "https://github.com/acamilo/SVGExtrude_acamilo.git",
       "SVGExtrude.groovy"
+    ],
+    "https://github.com/acamilo/SVGExtrude_acamilo.git:drawing.svg.SVG": [
+      "https://github.com/acamilo/SVGExtrude_acamilo.git",
+      "drawing.svg.SVG"
     ]
   },
   "BowlerStudioConfigs": {
