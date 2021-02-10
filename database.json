@@ -42,13 +42,15 @@
       "Play",
       "Game",
       "X-Box",
-      "Dragon"
+      "Dragon",
+      "HIDI2C Device"
     ],
     "linkDeviceName": "kevkat",
     "robotName": "MediumKat",
     "robotGitFile": "MediumKat.xml",
     "robotGit": "https://github.com/OperationSmallKat/greycat.git"
   },
+  "HIDI2C Device": {},
   "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
@@ -70,5 +72,6 @@
     "jogKinslider": "slider",
     "jogKiny": "y",
     "jogKinx": "x"
-  }
+  },
+  "Controller (XBOX 360 For Windows)": {}
 }
