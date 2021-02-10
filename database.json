@@ -37,16 +37,19 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://github.com/acamilo/SVGExtrude_acamilo.git:SVGExtrude.groovy": [
-      "https://github.com/acamilo/SVGExtrude_acamilo.git",
-      "SVGExtrude.groovy"
+  "katapult": {
+    "gameControllerNames": [
+      "Play",
+      "Game",
+      "X-Box",
+      "Dragon"
     ],
-    "https://github.com/acamilo/SVGExtrude_acamilo.git:drawing.svg.SVG": [
-      "https://github.com/acamilo/SVGExtrude_acamilo.git",
-      "drawing.svg.SVG"
-    ]
+    "linkDeviceName": "kevkat",
+    "robotName": "MediumKat",
+    "robotGitFile": "MediumKat.xml",
+    "robotGit": "https://github.com/OperationSmallKat/greycat.git"
   },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "0.17.1",
