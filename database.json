@@ -41,9 +41,9 @@
     "gameControllerNames": [
       "Play",
       "Game",
+      "HIDI2C Device",
       "X-Box",
-      "Dragon",
-      "HIDI2C Device"
+      "Dragon"
     ],
     "linkDeviceName": "kevkat",
     "robotName": "MediumKat",
