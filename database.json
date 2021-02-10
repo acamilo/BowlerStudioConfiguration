@@ -43,13 +43,13 @@
       "Game",
       "HIDI2C Device",
       "X-Box",
-      "Dragon",
-      "Controller (XBOX 360 For Windows)"
+      "Controller (XBOX 360 For Windows)",
+      "Dragon"
     ],
-    "linkDeviceName": "kevkat",
-    "robotName": "MediumKat",
+    "linkDeviceName": "midnight",
+    "robotName": "Luna",
     "robotGitFile": "MediumKat.xml",
-    "robotGit": "https://github.com/OperationSmallKat/greycat.git"
+    "robotGit": "https://github.com/OperationSmallKat/Luna.git"
   },
   "HIDI2C Device": {},
   "studio-open-git": {},
