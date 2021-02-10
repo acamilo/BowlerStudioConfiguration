@@ -73,5 +73,19 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "Controller (XBOX 360 For Windows)": {}
+  "Controller (XBOX 360 For Windows)": {
+    "X Axis": "l-joy-left-right",
+    "X Rotation": "r-joy-left-right",
+    "Button 7": "start",
+    "Button 6": "select",
+    "Button 5": "r-trig-button",
+    "Y Axis": "l-joy-up-down",
+    "Button 4": "l-trig-button",
+    "Button 3": "y-mode",
+    "Button 2": "x-mode",
+    "Y Rotation": "r-joy-up-down",
+    "Button 1": "b-mode",
+    "Button 0": "a-mode",
+    "Z Axis": "analog-trig"
+  }
 }
