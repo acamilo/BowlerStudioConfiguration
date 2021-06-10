@@ -60,10 +60,6 @@
     "https://github.com/Hephaestus-Arm/HephaestusArm2.git:hephaestus.xml": [
       "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
       "hephaestus.xml"
-    ],
-    "https://github.com/Hephaestus-Arm/HephaestusArm2.git:cadGenHephaestusArm.groovy": [
-      "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
-      "cadGenHephaestusArm.groovy"
     ]
   },
   "BowlerStudioConfigs": {
