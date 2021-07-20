@@ -56,12 +56,7 @@
     "robotGit": "https://github.com/OperationSmallKat/Luna.git"
   },
   "HIDI2C Device": {},
-  "studio-open-git": {
-    "https://github.com/Hephaestus-Arm/HephaestusArm2.git:launch.groovy": [
-      "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
-      "launch.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "0.17.1",
