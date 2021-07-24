@@ -68,7 +68,7 @@
     "showTerminal": true,
     "tutorialBranch": "master",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 32.0,
+    "fontsize": 28,
     "skinBranch": "1.29.0",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
