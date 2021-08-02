@@ -50,10 +50,10 @@
       "Controller (XBOX 360 For Windows)",
       "Dragon"
     ],
-    "linkDeviceName": "midnight",
-    "robotName": "Luna",
-    "robotGitFile": "MediumKat.xml",
-    "robotGit": "https://github.com/OperationSmallKat/Luna.git"
+    "linkDeviceName": "hephaestus-16c00486",
+    "robotName": "HephaestusArmV2",
+    "robotGitFile": "hephaestus.xml",
+    "robotGit": "https://github.com/Hephaestus-Arm/HephaestusArm2.git"
   },
   "HIDI2C Device": {},
   "studio-open-git": {
