@@ -4,6 +4,10 @@
       "acamilo/SVGExtrude_acamilo",
       "1609635742418"
     ],
+    "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
+      "Hephaestus-Arm/HephaestusArm2",
+      "1628182615405"
+    ],
     "https://github.com/madhephaestus/SeriesElasticActuator.git": [
       "madhephaestus/SeriesElasticActuator",
       "1561224645681"
@@ -53,22 +57,6 @@
   },
   "HIDI2C Device": {},
   "studio-open-git": {
-    "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git:LewanSoulMotor.groovy": [
-      "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git",
-      "LewanSoulMotor.groovy"
-    ],
-    "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git:bearing.groovy": [
-      "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git",
-      "bearing.groovy"
-    ],
-    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git:heatedThreadedInsert.groovy": [
-      "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
-      "heatedThreadedInsert.groovy"
-    ],
-    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git:capScrew.groovy": [
-      "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
-      "capScrew.groovy"
-    ],
     "https://github.com/Hephaestus-Arm/HephaestusArm2.git:pcbmountpoints.groovy": [
       "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
       "pcbmountpoints.groovy"
