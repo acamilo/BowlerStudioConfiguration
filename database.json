@@ -16,6 +16,10 @@
       "madhephaestus/SeriesElasticActuator",
       "1561224645681"
     ],
+    "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git": [
+      "WPIRoboticsEngineering/LabCodeRepoSetup",
+      "1630460418786"
+    ],
     "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git": [
       "WPIRoboticsEngineering/RBELabCustomParts",
       "1562006874251"
