@@ -69,9 +69,9 @@
   },
   "HIDI2C Device": {},
   "studio-open-git": {
-    "https://github.com/Hephaestus-Arm/HephaestusArm2.git:PID-G_DeviceLoader.groovy": [
-      "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
-      "PID-G_DeviceLoader.groovy"
+    "https://github.com/Hephaestus-Arm/HIDLinkLoader.git:load.groovy": [
+      "https://github.com/Hephaestus-Arm/HIDLinkLoader.git",
+      "load.groovy"
     ]
   },
   "BowlerStudioConfigs": {
