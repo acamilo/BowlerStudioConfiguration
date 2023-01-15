@@ -1,9 +1,5 @@
 {
   "workspace": {
-    "https://github.com/acamilo/SVGExtrude_acamilo.git": [
-      "acamilo/SVGExtrude_acamilo",
-      "1609635742418"
-    ],
     "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
       "Hephaestus-Arm/HephaestusArm2",
       "1628182615405"
@@ -11,14 +7,6 @@
     "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
       "Project https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
       "1630460324545"
-    ],
-    "https://github.com/madhephaestus/SeriesElasticActuator.git": [
-      "madhephaestus/SeriesElasticActuator",
-      "1561224645681"
-    ],
-    "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git": [
-      "WPIRoboticsEngineering/LabCodeRepoSetup",
-      "1630460418786"
     ],
     "https://github.com/WPIRoboticsEngineering/RBELabCustomParts.git": [
       "WPIRoboticsEngineering/RBELabCustomParts",
@@ -31,6 +19,22 @@
     "https://github.com/Hephaestus-Arm/CamLightTester.git": [
       "Hephaestus-Arm/CamLightTester",
       "1644521476208"
+    ],
+    "https://github.com/acamilo/potato.git": [
+      "acamilo/potato",
+      "1673817993069"
+    ],
+    "https://github.com/acamilo/SVGExtrude_acamilo.git": [
+      "acamilo/SVGExtrude_acamilo",
+      "1609635742418"
+    ],
+    "https://github.com/madhephaestus/SeriesElasticActuator.git": [
+      "madhephaestus/SeriesElasticActuator",
+      "1561224645681"
+    ],
+    "https://github.com/WPIRoboticsEngineering/LabCodeRepoSetup.git": [
+      "WPIRoboticsEngineering/LabCodeRepoSetup",
+      "1630460418786"
     ],
     "https://github.com/acamilo/EmptyRepo.git": [
       "acamilo/EmptyRepo",
