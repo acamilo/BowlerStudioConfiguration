@@ -72,14 +72,19 @@
     "robotGit": "https://github.com/Hephaestus-Arm/HephaestusArm2.git"
   },
   "HIDI2C Device": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/deccd373e0dff4e716f508a73b5924e2.git:ship.groovy": [
+      "https://gist.github.com/deccd373e0dff4e716f508a73b5924e2.git",
+      "ship.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "0.17.1",
     "showTerminal": true,
     "tutorialBranch": "master",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 28.0,
+    "fontsize": 12,
     "skinBranch": "1.25.1",
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
