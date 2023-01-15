@@ -76,6 +76,10 @@
     "https://gist.github.com/deccd373e0dff4e716f508a73b5924e2.git:ship.groovy": [
       "https://gist.github.com/deccd373e0dff4e716f508a73b5924e2.git",
       "ship.groovy"
+    ],
+    "https://github.com/acamilo/potato.git:potato.groovy": [
+      "https://github.com/acamilo/potato.git",
+      "potato.groovy"
     ]
   },
   "BowlerStudioConfigs": {
