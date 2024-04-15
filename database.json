@@ -79,6 +79,9 @@
     "robotGitFile": "hephaestus.xml",
     "robotGit": "https://github.com/Hephaestus-Arm/HephaestusArm2.git"
   },
+  "MenueSettings": {
+    "printCSG": true
+  },
   "HIDI2C Device": {},
   "studio-open-git": {
     "https://github.com/OperationSmallKat/Marcos.git:Marcos.xml": [
