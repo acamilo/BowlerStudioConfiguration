@@ -40,6 +40,10 @@
       "WPIRoboticsEngineering/LabCodeRepoSetup",
       "1630460418786"
     ],
+    "https://github.com/acamilo/ESP32ServoServer.git": [
+      "acamilo/ESP32ServoServer",
+      "1713216091029"
+    ],
     "https://github.com/acamilo/EmptyRepo.git": [
       "acamilo/EmptyRepo",
       "1561142633490"
