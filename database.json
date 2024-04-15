@@ -24,6 +24,10 @@
       "acamilo/potato",
       "1673817993069"
     ],
+    "https://github.com/OperationSmallKat/Marcos.git": [
+      "OperationSmallKat/Marcos",
+      "1713208216301"
+    ],
     "https://github.com/acamilo/SVGExtrude_acamilo.git": [
       "acamilo/SVGExtrude_acamilo",
       "1609635742418"
@@ -77,13 +81,9 @@
   },
   "HIDI2C Device": {},
   "studio-open-git": {
-    "https://gist.github.com/deccd373e0dff4e716f508a73b5924e2.git:ship.groovy": [
-      "https://gist.github.com/deccd373e0dff4e716f508a73b5924e2.git",
-      "ship.groovy"
-    ],
-    "https://github.com/acamilo/potato.git:potato.groovy": [
-      "https://github.com/acamilo/potato.git",
-      "potato.groovy"
+    "https://github.com/OperationSmallKat/Marcos.git:Marcos.xml": [
+      "https://github.com/OperationSmallKat/Marcos.git",
+      "Marcos.xml"
     ]
   },
   "BowlerStudioConfigs": {
