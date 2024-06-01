@@ -103,6 +103,10 @@
     "none:C:\\Users\\acamilo\\Documents\\plotter_tool\\plotter_toolhead.groovy": [
       "none",
       "C:\\Users\\acamilo\\Documents\\plotter_tool\\plotter_toolhead.groovy"
+    ],
+    "https://gist.github.com/deccd373e0dff4e716f508a73b5924e2.git:ship.groovy": [
+      "https://gist.github.com/deccd373e0dff4e716f508a73b5924e2.git",
+      "ship.groovy"
     ]
   },
   "BowlerStudioConfigs": {
