@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "": [
+      "Project ",
+      "1717870533716"
+    ],
     "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
       "Hephaestus-Arm/HephaestusArm2",
       "1628182615405"
@@ -84,7 +88,7 @@
     "robotGit": "https://github.com/Hephaestus-Arm/HephaestusArm2.git"
   },
   "MenueSettings": {
-    "printCSG": true
+    "printCSG": false
   },
   "HIDI2C Device": {},
   "studio-open-git": {
